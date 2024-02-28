@@ -31,6 +31,7 @@ const Wrapper = styled.div`
     width: 100%;
     max-width: 1100px;
     gap: 12px;
+    margin-bottom:1rem;
     @media (max-width: 960px) {
         flex-direction: column;
 }
