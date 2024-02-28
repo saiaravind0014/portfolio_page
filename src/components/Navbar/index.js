@@ -39,7 +39,7 @@ width: 80%;
     @media (max-width: 640px) {
       padding: 0 0px;
   }
-`
+`;
 const MobileIcon = styled.div`
   display: none;
   @media screen and (max-width: 768px) {
@@ -152,9 +152,9 @@ const Navbar = () => {
     <Nav>
         <NavContainer>
             <NavLogo to='/'>
-                <a style={{ display: "flex", alignItems: "center", color: "white", marginBottom: '20;', cursor: 'pointer' }}>
+                <div style={{ display: "flex", alignItems: "center", color: "white", marginBottom: '20;', cursor: 'pointer' }}>
                     <DiCssdeck size="3rem" /> <Span>Portfolio</Span>
-                </a>
+                </div>
             </NavLogo>
             <MobileIcon>
                 <FaBars onClick={() => {

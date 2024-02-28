@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import styled from 'styled-components';
 import { projects } from '../../data/constants'
-import Project_cards from '../Cards/Project_cards';
+import ProjectCards from '../Cards/ProjectCards';
 
 
 const Container = styled.div`
@@ -127,11 +127,11 @@ const Projects = () => {
         </ToggleGroup>
         <CardContainer>
             {toggle === "all" && 
-            projects.map((project) =>(<Project_cards project={project}/>))}
+            projects.map((project) =>(<ProjectCards project={project}/>))}
             {projects
             .filter((item) => item.category === toggle)
             .map((project) => (
-              <Project_cards project={project}/>
+              <ProjectCards project={project}/>
             ))}
         </CardContainer>
       </Wrapper>
