@@ -109,7 +109,7 @@ const Description = styled.div`
 `
 
 
-const Project_cards = ({project}) => {
+const ProjectCards = ({project}) => {
     return (
         <Card>
             {/* <Image src={project.image}/> */}
@@ -128,4 +128,4 @@ const Project_cards = ({project}) => {
 }
 
 
-export default Project_cards
+export default ProjectCards
