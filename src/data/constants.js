@@ -296,5 +296,22 @@ export const Bio = {
       ],
       category: "web app",
     },
+    {
+      id: 4,
+      title: "Book Store",
+      date: "March 2024",
+      description:
+        "I have developed a sophisticated bookstore application that leverages MongoDB, Express.js, React.js, and Node.js (MERN stack) for seamless functionality. This app efficiently manages a collection of books, offering features such as adding, deleting, updating, and viewing detailed book information. The utilization of these technologies ensures a robust and efficient user experience.",
+      // image:
+      //   "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
+      tags: [
+        "MongoDB",
+        "ExpressJS",
+        "ReactJS",
+        "Node JS",
+        "JavaScript",
+      ],
+      category: "web app",
+    },
   ];
   
