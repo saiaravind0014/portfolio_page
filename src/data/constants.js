@@ -281,12 +281,20 @@ export const Bio = {
       ],
       category: "web app",
     },
+    {
+      id: 3,
+      title: "E-Commerce",
+      date: "March 2024",
+      description:
+        "I have developed an e-commerce website that prioritizes user-friendliness. The platform enables users to easily browse, purchase, and view products. It features a robust cart system that allows for the addition and removal of items. Each product is thoughtfully categorized by product item type, enhancing the overall shopping experience.",
+      // image:
+      //   "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
+      tags: [
+        "ReactJS",
+        "JavaScript",
+        "Node JS",
+      ],
+      category: "web app",
+    },
   ];
   
-  export const TimeLineData = [
-    { year: 2017, text: "Started my journey" },
-    { year: 2018, text: "Worked as a freelance developer" },
-    { year: 2019, text: "Founded JavaScript Mastery" },
-    { year: 2020, text: "Shared my projects with the world" },
-    { year: 2021, text: "Started my own platform" },
-  ];
