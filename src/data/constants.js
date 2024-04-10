@@ -44,46 +44,46 @@ export const Bio = {
         },
       ],
     },
-    // {
-    //   title: "Backend",
-    //   skills: [
-    //     {
-    //       name: "Node Js",
-    //       image: "https://nodejs.org/static/images/logo.svg",
-    //     },
-    //     {
-    //       name: "Express Js",
-    //       image:
-    //     },
-    //     {
-    //       name: "Graph Ql",
-    //       image: "https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg",
-    //     },
-    //     {
-    //       name: "Python",
-    //       image:
-    //         "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
-    //     },
-    //     {
-    //       name: "MySQL",
-    //       image:
-    //         "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
-    //     },
-    //     {
-    //       name: "Postgresql",
-    //       image: "https://www.postgresql.org/media/img/about/press/elephant.png",
-    //     },
-    //     {
-    //       name: "MongoDB",
-    //       image:
-    //         "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
-    //     },
-    //     {
-    //       name: "Firebase",
-    //       image: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
-    //     },
-    //   ],
-    // },
+    {
+      title: "Backend",
+      skills: [
+        {
+          name: "Node Js",
+          image: "https://nodejs.org/static/images/logo.svg",
+        },
+        {
+          name: "Express Js",
+          image:
+        },
+        // {
+        //   name: "Graph Ql",
+        //   image: "https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg",
+        // },
+        // {
+        //   name: "Python",
+        //   image:
+        //     "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
+        // },
+        // {
+        //   name: "MySQL",
+        //   image:
+        //     "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
+        // },
+        // {
+        //   name: "Postgresql",
+        //   image: "https://www.postgresql.org/media/img/about/press/elephant.png",
+        // },
+        {
+          name: "MongoDB",
+          image:
+            "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
+        },
+        // {
+        //   name: "Firebase",
+        //   image: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
+        // },
+      ],
+    },
     // {
     //   title: "Android",
     //   skills: [
