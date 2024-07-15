@@ -10,7 +10,7 @@ export const Bio = {
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/saiaravind0014",
     // resume:
-    //   "https://drive.google.com/file/d/1Uk7PjKT-ts19d76z4qzFwKuoLSu0X-hv/view?usp=sharing",
+    //   "https://drive.google.com/file/d/1aWq1SJzQHJmRM13Gfizl4V0ugz1pQ6Dm/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/sai-aravind-appalabhakthula-242122214/",
   };
   
@@ -56,6 +56,11 @@ export const Bio = {
           image:"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX////8/Pz09PT19fX4+Pjd3d2ampoAAAAzNDWoqKno6Oh0dHRcXFzIycm5ubktLi4hIiN7e3yLi4tmZ2fi4uI9Pj7S0tIHCQuzs7NJSkru7u6goKB+f3/W1taNjo69vb1PT1BsbW0VFRc3ODhehn9TAAAA30lEQVR4Ad3QhXHEMBBA0W8QmAVmTq7/HjOeDdSQewNiLfBukjRNM4A0TeCR/0wSpY0xtiihMgWPsraNnLWd8yFEE3vyOIwAeprhMQ5Lm8O6uT3hWPwKjQspj+zsLvlBuwNmV1DaukS+t3sqs8MWkAU7ejMiGnMhkjoCqnZmQ3CZPwM8Hy/8Hd7xF7BWzjQIxulCsJaQbG6r7xXR2zNHrn1s0AwhUdNPjunejTLxTlHedS89EOMwFAkobzR4ewFptRyI9tPY18uZkFIYzUO5akWU22BflYKx2xGX1Rn/yxf+uwzyBt/vSwAAAABJRU5ErkJggg==",
         },
         // {
+        //   name: "MongoDB",
+        //   image:
+        //     "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
+        // },
+        // {
         //   name: "Graph Ql",
         //   image: "https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg",
         // },
@@ -73,15 +78,26 @@ export const Bio = {
         //   name: "Postgresql",
         //   image: "https://www.postgresql.org/media/img/about/press/elephant.png",
         // },
+        
+        // {
+        //   name: "Firebase",
+        //   image: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
+        // },
+      ],
+    },
+    {
+      title: "Query Languages",
+      skills: [
+        {
+          name: "MySQL",
+          image:
+            "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
+        },
         {
           name: "MongoDB",
           image:
             "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
         },
-        // {
-        //   name: "Firebase",
-        //   image: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
-        // },
       ],
     },
     // {
@@ -190,7 +206,7 @@ export const Bio = {
       img: Img.innovik,
       role: "Front-End Developer",
       company: "INNOVIK Technologies",
-      date: "September 2023 - January 2023",
+      date: "September 2023 - January 2024",
       desc: "Did few Projects as an Intern at Innovik Technologies",
       skills: [
         "ReactJS",
