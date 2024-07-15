@@ -123,6 +123,12 @@ const Projects = () => {
           ):(
             <ToggleButton onClick={()=> setToggle("web app")}>Web App's</ToggleButton>
           )}
+        <Divider/>
+          {toggle === "others" ? (
+            <ToggleButton active onClick={()=> setToggle("others")}>Others</ToggleButton>
+          ):(
+            <ToggleButton onClick={()=> setToggle("others")}>Others</ToggleButton>
+          )}
 
         </ToggleGroup>
         <CardContainer>
