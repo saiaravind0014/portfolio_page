@@ -329,5 +329,18 @@ export const Bio = {
       ],
       category: "web app",
     },
+      {
+      id: 4,
+      title: "Sales Analysis",
+      date: "June 2024",
+      description:
+        "I have developed a Sales Dashboard which contains Revenue and Profit Analysis by connecting the sql server by using Tableau tool",
+      // image:
+      //   "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
+      tags: [
+        "Mysql",
+      ],
+      category: "others",
+    },
   ];
   
